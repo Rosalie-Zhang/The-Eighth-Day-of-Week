@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diaryO",
+    "texture": "fbf2bc0e-df2e-4d95-a7c1-fd455986d8de",
+    "atlas": "",
+    "rect": [
+      97,
+      114,
+      945,
+      1168
+    ],
+    "offset": [
+      -3.5,
+      28.5
+    ],
+    "originalSize": [
+      1146,
+      1453
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
