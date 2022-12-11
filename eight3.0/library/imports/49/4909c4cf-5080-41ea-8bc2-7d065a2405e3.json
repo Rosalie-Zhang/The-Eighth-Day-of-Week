@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Searchscene",
+    "texture": "02ec2d8d-c39b-4c02-aa07-1fcf168c4cdc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4000,
+      2684
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4000,
+      2684
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
