@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "diaryN",
+    "texture": "79600730-0f4b-47c4-9757-16175421675e",
+    "atlas": "",
+    "rect": [
+      97,
+      114,
+      945,
+      1168
+    ],
+    "offset": [
+      -3.5,
+      28.5
+    ],
+    "originalSize": [
+      1146,
+      1453
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
