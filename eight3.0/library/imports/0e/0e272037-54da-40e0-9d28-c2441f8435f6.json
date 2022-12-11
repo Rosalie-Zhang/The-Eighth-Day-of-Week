@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dairy",
+    "texture": "23b87272-cf2e-46f6-a930-fbf01635f908",
+    "atlas": "",
+    "rect": [
+      65,
+      107,
+      142,
+      178
+    ],
+    "offset": [
+      13,
+      -2
+    ],
+    "originalSize": [
+      246,
+      388
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

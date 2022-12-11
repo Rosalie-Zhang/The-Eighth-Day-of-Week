@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coward",
+    "texture": "7c35d006-f4e9-42ce-8997-1dcab5e97426",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1546,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1546,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
