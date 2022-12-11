@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "outside",
+    "texture": "4b44963d-7d99-4b4b-ab0a-755b3ff914e6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1918,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1918,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

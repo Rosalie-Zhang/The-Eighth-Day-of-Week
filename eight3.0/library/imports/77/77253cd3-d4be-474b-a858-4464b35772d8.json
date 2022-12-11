@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BE-ddl",
+    "texture": "fd85881d-4152-41ad-9cd0-10d783f314b4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1546,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1546,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

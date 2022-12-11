@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BE-jumping",
+    "texture": "1901b54e-5c56-476b-8a7e-496bc72165b1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1546,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1546,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
