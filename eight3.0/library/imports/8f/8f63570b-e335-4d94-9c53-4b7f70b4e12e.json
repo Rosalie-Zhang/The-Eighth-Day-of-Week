@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zyypng",
+    "texture": "3f589ba8-1f99-4956-87ae-af89abe69c79",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1566,
+      1051
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1566,
+      1051
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
