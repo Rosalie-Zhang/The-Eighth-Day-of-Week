@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "elevator",
+    "texture": "fde4507f-47eb-4966-b0e9-538c8f3c7cd9",
+    "atlas": "",
+    "rect": [
+      49,
+      65,
+      101,
+      160
+    ],
+    "offset": [
+      -6.5,
+      -7
+    ],
+    "originalSize": [
+      212,
+      276
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
