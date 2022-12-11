@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.Material",
+  "_name": "dizzyMaterial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "d69eded8-8a27-48f9-b90d-34d12c7ccdda"
+  },
+  "_techniqueIndex": 0,
+  "_techniqueData": {
+    "0": {
+      "defines": {
+        "USE_TEXTURE": true,
+        "USE_NOISETEX": true
+      },
+      "props": {
+        "speedFactor": 0.1,
+        "strengthFactor": 0.3,
+        "noisetex": {
+          "__uuid__": "33b61630-801b-44bb-a3b5-39c19e6be00b"
+        }
+      }
+    }
+  }
+}

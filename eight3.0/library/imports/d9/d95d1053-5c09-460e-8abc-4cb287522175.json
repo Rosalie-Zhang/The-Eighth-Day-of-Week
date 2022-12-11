@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "second scene",
+    "texture": "07ca0122-8c20-4cf0-88e5-275e0bffc78c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2274,
+      1580
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      2274,
+      1580
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
